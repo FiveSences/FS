@@ -1,0 +1,87 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<Html>
+<head>
+	<title>
+		Задание №3
+	</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+	<style>
+		a:hover{
+			border-color:green;
+		}
+		.sc {
+			border:1px solid #001;
+			border-color:#A9A9A9;
+			background: -webkit-gradient(linear, 0, 0 100%, from(#FFFAFA), to(#DCDCDC));
+			display: inline-block;
+			color:black;
+			text-decoration: none;
+			padding-bottom:2px;
+			padding-left:7px;
+			padding-right:7px;
+		}
+		.sp{font-family:arial;
+			font-size:13px;
+		}
+		
+	</style>
+</head>
+
+<body>
+	<div>
+		<form action = "https://www.google.ru/search?newwindow=1&safe=off&source=hp&ei=tSf-WaD2Nqu96ATSs78g&q=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0+1+%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9&oq=&gs_l=psy-ab.3.0.35i39k1l6.4113.6360.0.10865.9.5.3.0.0.0.79.293.4.5.0....0...1.1.64.psy-ab..1.8.380.6..0j0i131k1j0i10i1k1.71.VEEyv5QR34A" >
+			Кнопка 1: <button type = "submit">
+						Переводчик
+					</button>
+		</form>
+	</div>
+	
+	<div>
+		Ссылка 1: <a href="https://www.google.ru/search?newwindow=1&safe=off&ei=rvT9WcXUGMLp6ASCiaCoCg&q=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0+1+%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9&oq=%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA+%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0+1+%D0%BD%D0%B0+%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9&gs_l=psy-ab.3..33i22i29i30k1.9366.13560.0.15528.14.14.0.0.0.0.80.956.13.13.0....0...1.1.64.psy-ab..1.12.880...33i160k1.0.TsoYZNPZ1BE" class="sc">
+					<span class = "sp">
+						Переводчик
+					</span>
+				</a>
+	</div>
+	
+	<div>********************************</div>
+
+	<div>
+		<form action = "https://www.google.ru/search?newwindow=1&safe=off&source=hp&ei=FgP-Wde9DOPw6ATfi4pY&q=%D0%BF%D1%80%D0%BE%D0%B1%D0%B0&oq=%D0%BF%D1%80%D0%BE%D0%B1%D0%B0&gs_l=psy-ab.3..0i67k1l2j0l2j0i67k1j0l5.857659.859705.0.860955.8.5.0.0.0.0.77.359.5.5.0....0...1.1.64.psy-ab..3.5.358.0..35i39k1j0i131k1.0.dnUtV9TD170" method = "get">
+			Кнопка 2: <button type = "submit" value = "Проба">
+						Проба
+					</button>
+		</form>
+	</div>
+
+	<div>
+		Ссылка 2: <a href="https://www.google.ru/search?newwindow=1&safe=off&source=hp&ei=FgP-Wde9DOPw6ATfi4pY&q=%D0%BF%D1%80%D0%BE%D0%B1%D0%B0&oq=%D0%BF%D1%80%D0%BE%D0%B1%D0%B0&gs_l=psy-ab.3..0i67k1l2j0l2j0i67k1j0l5.857659.859705.0.860955.8.5.0.0.0.0.77.359.5.5.0....0...1.1.64.psy-ab..3.5.358.0..35i39k1j0i131k1.0.dnUtV9TD170" class="sc">
+					<span class = "sp">
+						Проба
+					</span>
+				</a>
+	</div>
+
+	<div>********************************<div>
+
+	<div>
+		<form action = "https://yandex.ru/search/?lr=10750&msid=1509820492.32569.22877.4600&text=%D0%B0%D0%BF%D0%B0%D1%87%D0%B0%D0%B9%20%D1%85%D0%BE%D0%BF%D0%B0%D1%87%D0%B0%D0%B9" method = "get">
+			Кнопка 3: <button type = "submit" value = "Апачай Хопачай">
+					Апачай Хопачай
+				</button>
+		</form>
+	</div>
+
+	<div>
+		Ссылка 3: <a href="https://yandex.ru/search/?lr=10750&msid=1509820492.32569.22877.4600&text=%D0%B0%D0%BF%D0%B0%D1%87%D0%B0%D0%B9%20%D1%85%D0%BE%D0%BF%D0%B0%D1%87%D0%B0%D0%B9" class="sc">
+					<span class = "sp">
+						Апачай Хопачай
+					</span>
+				</a>
+	</div>
+	
+	<div>********************************<div>
+	
+</body>
+</html>
